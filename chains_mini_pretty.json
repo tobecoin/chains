@@ -5439,7 +5439,7 @@
   "networkId": 1001,
   "nativeCurrency": {
     "name": "KAIA",
-    "symbol": "KAIA",
+    "symbol": "KLAY",
     "decimals": 18
   },
   "rpc": ["https://public-en.kairos.node.kaia.io"],
@@ -11296,6 +11296,19 @@
   "faucets": [],
   "infoURL": "https://peerpay.su.gy"
 }, {
+  "name": "Flamma Testnet",
+  "chainId": 6550,
+  "shortName": "FlammaTestnet",
+  "networkId": 6550,
+  "nativeCurrency": {
+    "name": "Flamma",
+    "symbol": "FLA",
+    "decimals": 18
+  },
+  "rpc": ["https://testnetrpc.flamma.network"],
+  "faucets": [],
+  "infoURL": "https://flamma.network"
+}, {
   "name": "Scolcoin WeiChain Testnet",
   "chainId": 6552,
   "shortName": "SRC-test",
@@ -12303,10 +12316,10 @@
   "networkId": 8217,
   "nativeCurrency": {
     "name": "KAIA",
-    "symbol": "KAIA",
+    "symbol": "KLAY",
     "decimals": 18
   },
-  "rpc": ["https://public-en-cypress.klaytn.net"],
+  "rpc": ["https://public-en.node.kaia.io"],
   "faucets": [],
   "infoURL": "https://kaia.io"
 }, {
@@ -16314,6 +16327,19 @@
   "faucets": ["https://faucet.deelance.com"],
   "infoURL": "https://deelance.com"
 }, {
+  "name": "Blessnet",
+  "chainId": 45513,
+  "shortName": "bless",
+  "networkId": 45513,
+  "nativeCurrency": {
+    "name": "Bless",
+    "symbol": "BLESS",
+    "decimals": 18
+  },
+  "rpc": ["https://blessnet.calderachain.xyz/http", "wss://blessnet.calderachain.xyz/ws"],
+  "faucets": [],
+  "infoURL": "https://blessnet.io"
+}, {
   "name": "Fusion Testnet",
   "chainId": 46688,
   "shortName": "tfsn",
@@ -16336,7 +16362,7 @@
     "symbol": "GAS",
     "decimals": 18
   },
-  "rpc": ["https://mainnet-1.rpc.banelabs.org"],
+  "rpc": ["https://mainnet-1.rpc.banelabs.org", "https://mainnet-2.rpc.banelabs.org"],
   "faucets": [],
   "infoURL": "https://neo.org/"
 }, {
@@ -16677,6 +16703,19 @@
   "rpc": ["https://rei-testnet-rpc.moonrhythm.io"],
   "faucets": ["http://kururu.finance/faucet?chainId=55556"],
   "infoURL": "https://reichain.io"
+}, {
+  "name": "Flamma Mainnet",
+  "chainId": 55614,
+  "shortName": "FlammaMainnet",
+  "networkId": 55614,
+  "nativeCurrency": {
+    "name": "Flamma",
+    "symbol": "FLA",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.flamma.network"],
+  "faucets": [],
+  "infoURL": "https://flamma.network"
 }, {
   "name": "Lambda Chain Mainnet",
   "chainId": 56026,
@@ -21656,6 +21695,19 @@
   "rpc": ["https://hal-rpc.alienxchain.io/http", "https://hal.rpc.caldera.xyz/http"],
   "faucets": [],
   "infoURL": "https://alienxchain.io/home"
+}, {
+  "name": "Blessnet Sepolia",
+  "chainId": 11145513,
+  "shortName": "bless-sepolia",
+  "networkId": 11145513,
+  "nativeCurrency": {
+    "name": "Bless",
+    "symbol": "BLESS",
+    "decimals": 18
+  },
+  "rpc": ["https://blessnet-sepolia-testnet.rpc.caldera.xyz/http", "wss://blessnet-sepolia-testnet.rpc.caldera.xyz/ws"],
+  "faucets": ["https://blessnet-sepolia-testnet.hub.caldera.xyz"],
+  "infoURL": "https://blessnet.io"
 }, {
   "name": "Sepolia",
   "chainId": 11155111,
