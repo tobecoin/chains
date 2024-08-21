@@ -615,6 +615,14 @@
     "format": "png"
   }]
 }, {
+  "name": "nibiru",
+  "icons": [{
+    "url": "ipfs://QmZ4ujZagoLozYSypp7uJESgExJhGGJTmmpT6AoDV8GzZW",
+    "width": 256,
+    "height": 256,
+    "format": "png"
+  }]
+}, {
   "name": "latestChain",
   "icons": [{
     "url": "ipfs://QmUU784i1ZHDNwgXvt9weZmq6YbHHkyXvuDS7r4iDzao72",
@@ -668,6 +676,14 @@
     "url": "ipfs://QmWdpK5WFKrosaCSpJRCvU7uXeKk2qVeCckTxh6Zw2JrK8",
     "width": 600,
     "height": 600,
+    "format": "png"
+  }]
+}, {
+  "name": "mechain",
+  "icons": [{
+    "url": "ipfs://QmNqJnEL2Aj7pLKYnJwRnWGZFwUWTsvfZm8CofA8ztvD6J",
+    "width": 512,
+    "height": 512,
     "format": "png"
   }]
 }, {
@@ -1093,6 +1109,14 @@
     "width": 400,
     "height": 400,
     "format": "svg"
+  }]
+}, {
+  "name": "emctest",
+  "icons": [{
+    "url": "ipfs://QmUDymyXZS9eUn5p3tyDyxhD8GMB91HUBAAvySwENfPevh",
+    "width": 502,
+    "height": 579,
+    "format": "png"
   }]
 }, {
   "name": "hybrid",
@@ -1599,6 +1623,14 @@
     "format": "png"
   }]
 }, {
+  "name": "sophon-testnet",
+  "icons": [{
+    "url": "ipfs://QmVJWQ1f1vuQFdajLnqgbV3udPJKK7yC4comWwjT6NUinQ",
+    "width": 128,
+    "height": 64,
+    "format": "svg"
+  }]
+}, {
   "name": "ramestta",
   "icons": [{
     "url": "ipfs://QmUtnYVBeDMKudGq2Wue25pqYfQEdgbyvzTzoGPMqRGMJZ",
@@ -1813,6 +1845,14 @@
     "width": 512,
     "height": 512,
     "format": "png"
+  }]
+}, {
+  "name": "apexfusion",
+  "icons": [{
+    "url": "ipfs://QmSnqLVwFyeX9AZDvBKVS7diDf2Xb7m9nDcamGgpCMhL3d",
+    "width": 410,
+    "height": 410,
+    "format": "svg"
   }]
 }, {
   "name": "movoscan",
@@ -3127,6 +3167,14 @@
     "format": "png"
   }]
 }, {
+  "name": "cratd2c-testnet",
+  "icons": [{
+    "url": "ipfs://bafkreiczmtj47hwgmmtsy3xylhswu4q6rphpt42hznv37shjiaxsx3uqde",
+    "width": 128,
+    "height": 128,
+    "format": "png"
+  }]
+}, {
   "name": "tmychain",
   "icons": [{
     "url": "ipfs://Qmcd19ksUvNMD1XQFSC55jJhDPoF2zUzzV7woteFiugwBH",
@@ -3693,6 +3741,14 @@
     "width": 800,
     "height": 800,
     "format": "svg"
+  }]
+}, {
+  "name": "EsaCoins",
+  "icons": [{
+    "url": "ipfs://QmRZ1LHedFNs3pXhxcjhbQtHLmMzDhioKJ6ZsRwHNpbtiF",
+    "width": 1008,
+    "height": 1008,
+    "format": "png"
   }]
 }, {
   "name": "kaibascan",
@@ -5199,6 +5255,14 @@
     "format": "png"
   }]
 }, {
+  "name": "changchain",
+  "icons": [{
+    "url": "ipfs://QmbEytMCh2xFr7q87HjthX4K2MKmjfHih2mqS42tqTZoMy",
+    "width": 1024,
+    "height": 1024,
+    "format": "jpg"
+  }]
+}, {
   "name": "stn",
   "icons": [{
     "url": "ipfs://QmRgZVpjik4cH3Sb6wLRpdnfv9kiMEZ8fugfkzTgk3bpRW",
@@ -5591,6 +5655,14 @@
     "format": "png"
   }]
 }, {
+  "name": "vcity",
+  "icons": [{
+    "url": "ipfs://QmXBNp75r6DUCB99vknr5B1hHQFMCc1c2wE3qNbYkuss9C",
+    "width": 100,
+    "height": 100,
+    "format": "png"
+  }]
+}, {
   "name": "viridis",
   "icons": [{
     "url": "ipfs://QmPdxcJwPogfZdec7UAqxeatRxrivEktpP1ftJBTeJQTdR",
@@ -5692,6 +5764,14 @@
     "url": "ipfs://QmTREXNgGtUhSoxFsrkhTe5LUnDBTKL5byaX8kpET6UuKp",
     "width": 2048,
     "height": 2048,
+    "format": "png"
+  }]
+}, {
+  "name": "ethos",
+  "icons": [{
+    "url": "ipfs://QmTHkNAvYzYnHoKm5ht7RKXqChFeBndptunhMDfcCict2J",
+    "width": 512,
+    "height": 512,
     "format": "png"
   }]
 }, {
@@ -5924,6 +6004,14 @@
     "url": "ipfs://QmfXZCAh3HWS2bJroUStN9TieL4QA9QArMotie3X4pwBfj",
     "width": 72,
     "height": 72,
+    "format": "svg"
+  }]
+}, {
+  "name": "bifrost-polkadot",
+  "icons": [{
+    "url": "ipfs://QmcNsubj4ane1QXTfWt4Xm4SYU59TMnevtW5TuKprrBCHk",
+    "width": 480,
+    "height": 480,
     "format": "svg"
   }]
 }, {
