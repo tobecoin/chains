@@ -2839,6 +2839,14 @@
     "format": "jpg"
   }]
 }, {
+  "name": "uxer",
+  "icons": [{
+    "url": "ipfs://QmQurJBRScSDar6oDJ4pAeKKvzHr49KJfS1iuCkbtiNe4x",
+    "width": 200,
+    "height": 200,
+    "format": "png"
+  }]
+}, {
   "name": "dotblox",
   "icons": [{
     "url": "ipfs://QmZy2TMY881ghRxXJA7VyRA8Zhj2LJJ86DpHRZs3VQZqoJ",
@@ -6228,6 +6236,14 @@
     "url": "ipfs://QmfP6GDn5eXFcpWuoiyWn5pjn6PYB7HQhRD8nSko1zR8KD",
     "width": 1200,
     "height": 1200,
+    "format": "png"
+  }]
+}, {
+  "name": "litentry",
+  "icons": [{
+    "url": "ipfs://QmPYr4SiYqPr5jwt7XS4xc3XcB3yEVibDp2UXZdxukHAg6",
+    "width": 614,
+    "height": 614,
     "format": "png"
   }]
 }, {
